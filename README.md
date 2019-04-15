@@ -1,2 +1,2 @@
-# CS3224Ass1
+# CS3224Ass3
 Implementing Scheduling Algorithm
